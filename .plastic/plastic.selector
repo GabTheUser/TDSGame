@@ -1,0 +1,4 @@
+repository "DarekaStrike@DarekaGames@cloud"
+  path "/"
+    br "/main"
+    co "/main"
